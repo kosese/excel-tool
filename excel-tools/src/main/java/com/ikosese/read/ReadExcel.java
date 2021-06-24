@@ -7,7 +7,7 @@ public class ReadExcel {
 	 * @param filePath
 	 */
 	public void readExcel(String filePath){
-		
+		System.out.println("file path is: " + filePath);
 	}
 	
 	
